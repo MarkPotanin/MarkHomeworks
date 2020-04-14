@@ -1,0 +1,305 @@
+item {
+id :1
+name : "water"
+
+}
+item {
+id :2
+name : "pizza-margherita-baked"
+
+}
+item {
+id :3
+name : "broccoli"
+
+}
+item {
+id :4
+name : "salad-leaf-salad-green"
+
+}
+item {
+id :5
+name : "zucchini"
+
+}
+item {
+id :6
+name : "egg"
+
+}
+item {
+id :7
+name : "butter"
+
+}
+item {
+id :8
+name : "bread-white"
+
+}
+item {
+id :9
+name : "apple"
+
+}
+item {
+id :10
+name : "dark-chocolate"
+
+}
+item {
+id :11
+name : "white-coffee-with-caffeine"
+
+}
+item {
+id :12
+name : "sweet-pepper"
+
+}
+item {
+id :13
+name : "mixed-salad-chopped-without-sauce"
+
+}
+item {
+id :14
+name : "tomato-sauce"
+
+}
+item {
+id :15
+name : "bread-wholemeal"
+
+}
+item {
+id :16
+name : "coffee-with-caffeine"
+
+}
+item {
+id :17
+name : "cucumber"
+
+}
+item {
+id :18
+name : "cheese"
+
+}
+item {
+id :19
+name : "pasta-spaghetti"
+
+}
+item {
+id :20
+name : "rice"
+
+}
+item {
+id :21
+name : "salmon"
+
+}
+item {
+id :22
+name : "carrot"
+
+}
+item {
+id :23
+name : "onion"
+
+}
+item {
+id :24
+name : "mixed-vegetables"
+
+}
+item {
+id :25
+name : "espresso-with-caffeine"
+
+}
+item {
+id :26
+name : "banana"
+
+}
+item {
+id :27
+name : "strawberries"
+
+}
+item {
+id :28
+name : "mayonnaise"
+
+}
+item {
+id :29
+name : "almonds"
+
+}
+item {
+id :30
+name : "wine-white"
+
+}
+item {
+id :31
+name : "hard-cheese"
+
+}
+item {
+id :32
+name : "ham-raw"
+
+}
+item {
+id :33
+name : "tomato"
+
+}
+item {
+id :34
+name : "french-beans"
+
+}
+item {
+id :35
+name : "mandarine"
+
+}
+item {
+id :36
+name : "wine-red"
+
+}
+item {
+id :37
+name : "potatoes-steamed"
+
+}
+item {
+id :38
+name : "croissant"
+
+}
+item {
+id :39
+name : "salami"
+
+}
+item {
+id :40
+name : "boisson-au-glucose-50g"
+
+}
+item {
+id :41
+name : "biscuits"
+
+}
+item {
+id :42
+name : "corn"
+
+}
+item {
+id :43
+name : "leaf-spinach"
+
+}
+item {
+id :44
+name : "jam"
+
+}
+item {
+id :45
+name : "tea-green"
+
+}
+item {
+id :46
+name : "chips-french-fries"
+
+}
+item {
+id :47
+name : "parmesan"
+
+}
+item {
+id :48
+name : "beer"
+
+}
+item {
+id :49
+name : "avocado"
+
+}
+item {
+id :50
+name : "bread-french-white-flour"
+
+}
+item {
+id :51
+name : "chicken"
+
+}
+item {
+id :52
+name : "soft-cheese"
+
+}
+item {
+id :53
+name : "tea"
+
+}
+item {
+id :54
+name : "sauce-savoury"
+
+}
+item {
+id :55
+name : "honey"
+
+}
+item {
+id :56
+name : "bread-whole-wheat"
+
+}
+item {
+id :57
+name : "bread-sourdough"
+
+}
+item {
+id :58
+name : "gruyere"
+
+}
+item {
+id :59
+name : "pickle"
+
+}
+item {
+id :60
+name : "mixed-nuts"
+
+}
+item {
+id :61
+name : "water-mineral"
+
+}
